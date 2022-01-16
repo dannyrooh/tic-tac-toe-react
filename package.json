@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "5.0.0",
+    "react-scripts": "^3.0.1",
     "web-vitals": "^2.1.3"
   },
   "scripts": {
@@ -34,5 +34,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Jogo de tutorial do site react.org",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyrooh/tic-tac-toe-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannyrooh/tic-tac-toe-react/issues"
+  },
+  "homepage": "https://github.com/dannyrooh/tic-tac-toe-react#readme"
 }
